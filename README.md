@@ -6,7 +6,7 @@
 
 <p style="font-family: 'Georgia', serif;">
 <b>Hey there!</b> <br>
-I'm a senior Computer Science student with a passion for turning complex concepts into fun experiences. As the president of UOB Devs, I'm all about bringing our tech community together to create something awesome. Right now, I'm deep into the world of advanced algorithms, mastering React, and having a blast building games with the Gadot engine. Whether it's solving tricky problems or crafting cool games, I’m here to make it happen. Let’s create something amazing! 🎮👨‍💻🚀
+I'm a senior Computer Science student with a passion for turning complex concepts into fun experiences. As the president of UOB Devs, I'm all about bringing our tech community together to create something awesome. Right now, I'm deep into the world of advanced algorithms, and having a blast building games with the Unity engine. Whether it's solving tricky problems or crafting cool games, I’m here to make it happen. Let’s create something amazing! 🎮👨‍💻🚀
 </p>
 
 ---
