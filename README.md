@@ -6,7 +6,7 @@
 
 <p style="font-family: 'Georgia', serif;">
 <b>Hey there!</b> <br>
-I'm a senior Computer Science student with a passion for turning complex concepts into fun experiences. As the president of UOB Devs, I'm all about bringing our tech community together to create something awesome. Right now, I'm deep into the world of advanced algorithms, and having a blast building games with the Unity engine. Whether it's solving tricky problems or crafting cool games, I’m here to make it happen. Let’s create something amazing! 🎮👨‍💻🚀
+I’m a Master’s student in Computer Science at the American University of Beirut and a game developer primarily working with Unity. Recently, I’ve been diving into GPU programming and reinforcement learning, expanding my interest in how intelligent systems and high-performance computing can enhance interactive experiences.
 </p>
 
 ---
